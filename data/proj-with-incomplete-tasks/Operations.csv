@@ -1,0 +1,187 @@
+﻿Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Collaborators
+1207962940057170,2024-08-02,2024-09-17,2024-09-17,organize office space,General,Jakub,jtkaczuk@ethz.ch,,2024-09-30,,,Operations,,,,
+1207962940057175,2024-08-02,2024-08-06,2024-08-07,confirm hand over date,,Liz,tilleye@ethz.ch,,2024-09-02,,,,organize office space,,,
+1207962940057177,2024-08-02,2024-09-04,2024-09-04,organize desks,,Jakub,jtkaczuk@ethz.ch,,2024-09-13,,"    Round table to be removed from CLT B 13
+    1 desk to be moved from CLT B 14 to 13
+    Joules' desk to be moved from CLD D 12 to CLD D 8
+",,organize office space,,,
+1206676270505051,2024-02-23,2024-03-21,2024-03-21,select conferencing setup,General,Jakub,jtkaczuk@ethz.ch,,2024-03-01,,"The options I've found are:
+
+1. Logitech Rally Plus
+price: 2170 CHF
+link: https://www.digitec.ch/en/s1/product/logitech-rally-plus-conference-devices-10134067
+advantages: the camera can be fixed with a Kensington lock but not all parts can.
+disadvantages: cannot be easily moved from the room. Are we afraid of thefts?
+Note: aditional mounting kit allows to fix all parts to the tables/walls/stands: https://www.logitech.com/en-ch/products/video-conferencing/accessories/mounting-kit-for-rally.939-001644.html
+
+2. Logitech Rally bar + 1 x mic pod
+price: 2700 CHF (bar) + 250 CHF (pod)
+link for the bar: https://www.digitec.ch/en/s1/product/logitech-rally-bar-conference-devices-14968391
+link for the pod: https://www.digitec.ch/en/s1/product/logitech-rally-mic-pod-conference-device-accessories-10160433
+advantages: all-in-one piece of equipment with less cabels compared to the rally plus, easy setup
+disadvantages: expensive, similar capabilities to the rally plus in compact packaging (is it worth it?)
+
+3. Owl Pro, the same as we rent + expansion mic
+price: ~1550 CHF
+link for owl: https://www.digitec.ch/en/s1/product/owl-meeting-owl-pro-conference-devices-13571234
+link for the mic: https://www.digitec.ch/en/s1/product/owl-expansion-mic-conference-device-accessories-21425325
+advantages: mobile, can be extended with a mic for better remote speaker experience
+disadvantages: not amazing sound quality for the in-person participants",Operations,,,,
+1206784338346594,2024-03-07,2024-06-13,2024-06-13,How to get additional tables and chairs,General,Bettina Melberg,bmelberg@ethz.ch,,2024-03-14,,,Operations,,,,
+1206816854371817,2024-03-14,2024-06-13,2024-08-06,define the scope of work for the 15 h contract,General,nseemann@ethz.ch,nseemann@ethz.ch,,2024-03-19,,"Nic, could you please identify some exemplary tasks you could work on, while being on the 15 h/week contract? I would like to have something realistic before discussing it with Liz (I'll let you start and I'll contribute)",Operations,,,,
+1206839639349055,2024-03-14,2024-06-13,2024-08-06,Work I can do remotely,,nseemann@ethz.ch,nseemann@ethz.ch,,,,"    Technical support for students (software, electronics, design, parts)
+    Publishing student's work (designs, data)
+    Supervision of Alex Sucur  
+    Various operational tasks (e.g. helping decide on new equipment, feedback on ETH4D grant applications)
+",,define the scope of work for the 15 h contract,,,
+1206839639349056,2024-03-14,2024-06-13,2024-08-06,Job posting bulletpoints,,nseemann@ethz.ch,nseemann@ethz.ch,,,,"    Experience and confidence with workshop/lab equipment
+    Programming projects experience (internship, hobby...)
+    Able to learn to use new tools independently
+    Experience with microcontrollers, electronics
+
+Generally, just someone who is proactive and likes to geek out with new gear.",,define the scope of work for the 15 h contract,,,
+1207353177178065,2024-05-21,2024-05-27,2024-05-27,clean up one cabinet in your office,General,Lin Boynton,lboynton@ethz.ch,,2024-05-28,,,Operations,,,,
+1206863241116201,2024-03-19,2024-03-20,2024-03-20,apply for the work-related parking permit,General,Bettina Melberg,bmelberg@ethz.ch,,2024-03-21,,"Information: https://ethz.ch/staffnet/en/service/mobility/parkierung.html (under Work-related parking permit for organisational unit)
+
+The form is here: https://molodo.services.ethz.ch/Formular_Antrag_Dienstparkkarten.pdf",Operations,,,,
+1207131165127722,2024-04-22,2024-04-23,2024-04-23,order more chart paper (at least 4 packs),General,Bettina Melberg,bmelberg@ethz.ch,,,,,Operations,,,,
+1206863242609674,2024-03-20,2024-03-20,2024-03-21,assign admin rights to Jakub,General,Lars,lschoebitz@ethz.ch,,2024-03-22,,"Lars, could you please give me admin rights for the lab pc?",Operations,,,,
+1207128955597991,2024-04-22,2024-04-23,2024-04-23,order A4 paper for printing,General,Bettina Melberg,bmelberg@ethz.ch,,2024-04-25,,,Operations,,,,
+1207521698046309,2024-06-11,2024-06-19,2024-06-19,purchase from ebay for WASTE ,General,Jakub,jtkaczuk@ethz.ch,,2024-06-14,,,Operations,,,,
+1207521698046312,2024-06-11,2024-06-12,2024-06-12,share German address for ebay purchases,,Natalie,nboydwilliam@ethz.ch,,2024-06-12,,,,purchase from ebay for WASTE ,,,
+1207552216862217,2024-06-13,2024-06-28,2024-06-28,prepare arrival of PHD & HiWi,General,Jakub,jtkaczuk@ethz.ch,,2024-07-01,,,Operations,,,,
+1207552216862221,2024-06-13,2024-06-19,2024-06-19,order a desk and chairs though Isabele,,Liz,tilleye@ethz.ch,,2024-06-14,,,,prepare arrival of PHD & HiWi,,,
+1207552216862225,2024-06-13,2024-06-26,2024-06-26,order IT equipment,,Lars,lschoebitz@ethz.ch,,2024-06-19,,"Hi https://app.asana.com/0/1200669575276661/list, we have two people coming on July 1:
+    my student research assistant - Turlan Kuzhagaliyev
+    PhD student for mycelium - Jules Peter (Jules is his first name)
+
+and we need 2 screens for Natalie's office, as we have already put the third desk there.
+Nic will bring his Mac on Monday 17 June to be reset by IT. I would offer it to Turlan if he needs it, Jules prefers Windows.
+
+To sum up, I would like to get the following:
+    4 screens (2 for Natalie's office, 1 for Mian's office, 1 for Saloni's office (we're going to put the third desk there).
+    1 windows laptop for the Jules
+    3 sets of keybord + mouse + mouse pad
+    1 mic for Jules
+",,prepare arrival of PHD & HiWi,,,
+1207674523130852,2024-06-28,,2024-09-16,find solution for limited storage on supervision,General,Lars,lschoebitz@ethz.ch,,2024-07-05,,"Hi https://app.asana.com/0/profile/1200669575276657, ghe-supervision has 16% storage left. Should I archive the archive student directories to NAS or should we get more space?",Operations,,,,
+1207962940057168,2024-08-02,2024-08-07,2024-08-07,office space organization,General,,,,,,,Operations,,,,
+1207812091641685,2024-07-16,2024-07-19,2024-07-19,send all open MSc topics to ETH4D,General,Jakub,jtkaczuk@ethz.ch,,2024-07-18,,,Operations,,,,
+1204934043621696,2023-06-29,,2024-04-30,add the GSR and BSO responsibilities to contract,GSR&BSO,Jakub,jtkaczuk@ethz.ch,,2024-01-19,,,Operations,,,,jtkaczuk@ethz.ch
+1204934043621686,2023-06-29,2024-08-14,2024-08-14,GSR - finalize the the Group Specific Safety Concept,GSR&BSO,Jakub,jtkaczuk@ethz.ch,,2024-11-01,,,Operations,,,,tilleye@ethz.ch
+1205804511241240,2023-10-27,2023-12-08,2023-12-08,find similar (in terms of equipment) groups as ours in MAVT to get their safety concept,,Liz,tilleye@ethz.ch,,2023-11-30,,,,GSR - finalize the the Group Specific Safety Concept,,,
+1208028442589345,2024-08-13,2024-08-14,2024-08-14,fill in biosafety / chemical safety part of the biosafety concept,,Jules,jupeter@ethz.ch,,2024-08-23,,,,GSR - finalize the the Group Specific Safety Concept,,,
+1208257029976128,2024-09-11,,2024-10-18,make level 1 entry in ECOGEN,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-10-18,,,"Operations,Mycelium faecal sludge - phd project",,,,
+1204788779989209,2024-02-13,2024-02-15,2024-02-15,Buy 30 mm and 32 mm keys for bottles,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-02-14,,,Operations,,,,
+1204992335992296,2023-07-11,2023-07-13,2023-11-28,lab handover,wet lab,Liz,tilleye@ethz.ch,,2023-07-13,,,Operations,,,,
+1205111452850194,2023-07-21,2023-07-26,2023-11-28,Get keys for Liz and Bettina,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-07-24,,,Operations,,,,
+1204992335992290,2023-07-11,2023-07-31,2023-11-28,Choose accessories/rotors for the centrifuge,wet lab,Liz,tilleye@ethz.ch,,2023-07-28,,Choose rotors for the centrifuge to get the quote: https://drive.google.com/file/d/1VBGkFVh5K_ty60Gomv7ztWkYVhAcWjSK/view?usp=share_link,Operations,,,,
+1205121410598267,2023-07-25,2023-07-31,2023-07-31,order centrifuge from ThermoFisher,,Jakub,jtkaczuk@ethz.ch,,2023-07-26,,"First option:
+
+centrifuge: 15135233
+rotor: 15175233
+buckets: 15165233
+adapters: 15135243
+
+Second option:
+different bucket",,Choose accessories/rotors for the centrifuge,,,
+1205121410597136,2023-07-24,2023-08-02,2023-11-28,Recontact Michael Trokan for KNF vacuum pump,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-08-02,,,Operations,,,,
+1205171572889811,2023-08-02,2023-08-03,2023-11-28,confirm address for receipts,wet lab,Liz,tilleye@ethz.ch,,2023-08-04,,,Operations,,,,
+1205074049951107,2023-07-20,2023-08-08,2023-11-28,Get a visitor parking permission for Hach representative,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-08-07,,"Buy day pass in Campus Info HG D 34.1
+Date: 23 August 2023",Operations,,,,
+1205311509458632,2023-08-22,2023-08-23,2023-11-28,Choose Miele Dishwasher service options,wet lab,Liz,tilleye@ethz.ch,,2023-08-31,,,Operations,,,,
+1205367441793864,2023-08-30,2023-08-30,2023-11-28,write down a list of chemicals,wet lab,Liz,tilleye@ethz.ch,,2023-09-01,,https://docs.google.com/spreadsheets/d/1wG6dzLr0D_6ZHSH6BGFaW1atq6K3sRSE/edit?usp=drive_link&ouid=112700727126094788153&rtpof=true&sd=true,Operations,,,,
+1205101007902069,2023-07-21,2023-09-13,2023-11-28,Power shut down / Fire alarm test,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-09-13,,"Turn off the equipment in the afternoon of September 12.
+
+Integral safety tests: September 13, 5.30 am - 12.00 (noon)
+Total shutdown: September 13, 6.30 am - 8.00 am
+
+Contact persons:
+Orlando Waschter +41 44 632 23 65
+Andreas Schmid: +41 44 633 86 04",Operations,,,,
+1205484350514491,2023-09-13,2023-09-22,2023-11-28,sign up for the laundry service for lab coats,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-09-22,,,Operations,,,,
+1205484350514487,2023-09-13,2024-03-26,2024-03-26,sign up for the hazardous waste disposal,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-03-26,,,Operations,,,,
+1205398816447165,2023-09-01,2023-11-22,2023-11-28,check which gloves I need for each chemical,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-09-29,,,Operations,,,,
+1205484350514493,2023-09-14,2023-09-29,2023-11-28,choose the burners,wet lab,Liz,tilleye@ethz.ch,,2023-09-29,,"https://app.asana.com/0/1200669713362048/list, which burners do you want?
+    Bunsen - goes up to 1100 deg C, cheaper (around 40-50 CHF)
+    Teclu - goes up to 1600 deg C, more expensive (around 180 CHF)
+",Operations,,,,
+1205674831968704,2023-10-10,2023-10-17,2023-11-28,write a list of important equipment for Bettina to make the official inventory,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-10-17,,,Operations,,,,
+1206027498028924,2023-11-27,2023-11-30,2023-11-30,access list to the wet lab,wet lab,Bettina Melberg,bmelberg@ethz.ch,,2023-12-01,,"Hi Bettina, could you please tell me if you have access to the wet lab? Or is it just me and Liz? If you do, can you give me the key number? I need it to fill the biosafety documents",Operations,,,,
+1205111452850200,2023-07-21,2023-07-25,2023-11-28,Do we want automatic feed water for the autoclave?,wet lab,Jakub,jtkaczuk@ethz.ch,,,,,Operations,,,,
+1205398816447170,2023-09-01,2023-12-19,2023-12-19,"precations for pregnant women, breastfeeding",wet lab,Jakub,jtkaczuk@ethz.ch,,,,Get the list of chemicals for which the precautions are necessary for pregnant or planning to be pregnant women. They should contact the occupational doctor specifying the list of chemicals to have contact with.,Operations,,,,
+1205484350975972,2023-09-15,2024-02-15,2024-06-26,chemicals procurement,wet lab,Liz,tilleye@ethz.ch,,2024-01-16,,,Operations,,,,
+1205484350975978,2023-09-15,2024-02-15,2024-02-15,write up a list of hazards,,Jakub,jtkaczuk@ethz.ch,,,,,,chemicals procurement,,,
+1205484350975974,2023-09-15,2024-01-30,2024-01-30,compressed gas procurement,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-01-26,,call Pangas: https://hci-shop.ethz.ch/informationen/Tanklager.html,Operations,,,,
+1205802491724464,2023-10-25,2024-01-25,2024-01-25,Stick the gas cylinder sign on the lab door,,Jakub,jtkaczuk@ethz.ch,,2024-01-31,,,,compressed gas procurement,,,
+1206190244808804,2023-12-19,2023-12-21,2023-12-21,close the wet lab for Christmas,wet lab,Jakub,jtkaczuk@ethz.ch,,2023-12-20,,"remove water from autoclave, switch off all the power supplies",Operations,,,,
+1206190244808807,2023-12-19,2024-01-16,2024-01-16,autoclave service contract,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-01-12,,,Operations,,,,
+1206190244808810,2023-12-19,,2024-09-13,equipment procurement,wet lab,Jakub,jtkaczuk@ethz.ch,,,,,Operations,,,,
+1204788779989240,2024-06-08,2024-06-17,2024-06-17,Buy vacuum cleaner,,Jakub,jtkaczuk@ethz.ch,,2024-06-13,,,,equipment procurement,,,
+1205484350514497,2023-09-14,,2024-08-07,man down device for lone workers,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1207977660628971,2024-08-07,2024-08-13,2024-08-13,high temp gloves,,Jules,jupeter@ethz.ch,,2024-09-20,,,,equipment procurement,,,
+1205802491724460,2023-10-25,2024-03-14,2024-03-14,personal gas analyser,,Jakub,jtkaczuk@ethz.ch,,,,"probably not useful for the lab but maybe for some measurements or at least a hint for a further search: Draeger Sfety X-am 2500 measures: CH4, O2, CO, H2S.",,equipment procurement,,,
+1206190244808813,2023-12-19,2024-03-14,2024-03-14,sharp box,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190244808814,2023-12-19,,2024-10-18,spill kit,,Jakub,jtkaczuk@ethz.ch,,2024-10-25,,"Content:
+    PPE, including goggles and masks.
+    Absorbing material, mats, paper towels.
+    Disinfectant.
+    Signs, marker band (sign for no cleaning in the lab which we share with facility services).
+    Bags, waste bins, sharps container, forceps etc.
+    Signs, labelling, forms.
+    Make it in the solid waste container box from ETH waste services.
+    Autoclaveable bag.
+    Gloves for chemicals in case of a chemical spill.
+",,equipment procurement,,,
+1206190244808815,2023-12-19,2024-08-07,2024-08-07,first aid kit,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190245207151,2023-12-19,2024-08-07,2024-08-07,vortex shaker,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190245207153,2023-12-19,2024-03-11,2024-03-11,tubes and connectors for the burner and vacuum pump,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190245207154,2023-12-19,2024-03-11,2024-03-11,"ceramic dishes, nitrile gloves, high temp gloves",,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190244808816,2023-12-19,2024-03-14,2024-03-14,autoclavable bags for biological waste,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1207552221899612,2024-06-13,2024-08-07,2024-08-07,maybe an injection molding machine (at some point),,Jakub,jtkaczuk@ethz.ch,,,,https://www.ajsolutions.be/wp-content/uploads/2022/09/V2-Catalogue-HoliMaker2022-ENG.pdf,,equipment procurement,,,
+1208131457955847,2024-08-23,,2024-08-26,Climatechamber,,Jules,jupeter@ethz.ch,,,,Buy climatechamber with  temperature and humidity control volume around 240l,,equipment procurement,,,
+1208144722504954,2024-08-26,,2024-08-26,Check with Jakub,,,,,,,,,Climatechamber,,,
+1208155779449854,2024-08-27,2024-08-28,2024-08-28,Isopropyl alcohol,,Jakub,jtkaczuk@ethz.ch,,,,"I think we talked about this, Can we get like a big ammount to store inside the lab?",,equipment procurement,,,
+1208232446374919,2024-09-05,,2024-09-24,UV-lamp for laminarflow bench,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206798577601910,2024-03-11,2024-03-14,2024-03-14,set up a pc for the wet lab,wet lab,Lars,lschoebitz@ethz.ch,,2024-03-15,,,Operations,,,,
+1207977659934395,2024-08-06,2024-08-06,2024-08-06,give Jules access to the wet lab,wet lab,Bettina Melberg,bmelberg@ethz.ch,,2024-08-09,,"Hi Bettina, could you please give Jules (jupeter) access to the wet lab for the next four years?",Operations,,,,
+1207904940357663,2024-07-26,2024-08-02,2024-08-02,pay linde if gasses are there,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-07-30,,,Operations,,,,
+1207997296368927,2024-08-07,,2024-08-28,general organization,wet lab,Jakub,jtkaczuk@ethz.ch,,,,General organization of the lab ,Operations,,,,
+1207997297935729,2024-08-07,,2024-08-07,Working space in the lab,,Jakub,jtkaczuk@ethz.ch,,,,"Organization of working times in the lab, resrvation plans for equipment. (e.g. fume hood now occupied from x-z from person y)",,general organization,,,
+1208165663231326,2024-08-28,,2024-09-19,Labnotebooks,,Jakub,jtkaczuk@ethz.ch,,,,"Is there a lab notebook software we use already.
+If not would it be possible to set openbis up for our lab? https://openbis.ch/ ",,general organization,,,
+1206816854268706,2024-03-13,2024-03-19,2024-03-19,lab hand over,wet lab,Liz,tilleye@ethz.ch,,2024-03-18,,"Liz, I can't make it on Monday. I can free a slot on Tuesday at 2 pm. Can that work? Can I (or you) propose it to Francesca?",Operations,,,,
+1204788779989218,2024-03-14,2024-03-14,2024-03-14,Give Liz access to b2.2,,Bettina Melberg,bmelberg@ethz.ch,,2024-03-18,,,,lab hand over,,,
+1204788779989219,2024-03-14,2024-03-15,2024-03-15,Validate your badge for lab access,,Liz,tilleye@ethz.ch,,2024-03-18,,,,lab hand over,,,
+1208257029976134,2024-09-11,,2024-09-11,aerosol-tight lids for centrifuge,wet lab,Jules,jupeter@ethz.ch,,2025-01-10,,,Operations,,,,
+1208210522976403,2024-09-03,2024-09-04,2024-09-04,give Turlan access to the wet lab,wet lab,Bettina Melberg,bmelberg@ethz.ch,,2024-09-05,,,Operations,,,,
+1208291276692615,2024-09-12,,2024-09-18,share cleaning instructions guidelines with facility services,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-09-18,,Send the instruction to: fs_gmz_ml_isc@ethz.ch,Operations,,,,
+1208314468388119,2024-09-16,,2024-09-16,Oxford nanopore sequencing,wet lab,Jules,jupeter@ethz.ch,,,,"Considering working with oxford nanopore for microbial analysis.
+
+",Operations,,,,
+1208314468388122,2024-09-16,,2024-09-16,Organize meeting with someone who works with it regularly,,Jules,jupeter@ethz.ch,,,,,,Oxford nanopore sequencing,,,
+1208311051672939,2024-09-17,,2024-09-20,collect certificates of conformity for new equipment,wet lab,Jules,jupeter@ethz.ch,,2024-10-25,,,Operations,,,,
+1208526721480100,2024-10-11,,2024-10-18,Working with human faeces,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-10-18,,What safety standard are needed to work with human faeces?,Operations,,,,
+1207977659934415,2024-08-07,,2024-08-07,equipment procurement,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,,,,Operations,,,,
+1207977659934417,2024-08-07,,2024-09-30,Buy a shelf for the workshop 370 cm x 35 cm,,Jakub,jtkaczuk@ethz.ch,,2024-09-30,,,,equipment procurement,,,
+1206977635929629,2024-04-04,2024-04-09,2024-04-10,Screens+cables for the workshop,mechanical workshop,Lars,lschoebitz@ethz.ch,,2024-04-09,,"Hi Lars, I am not sure if you have already ordered the screen for the workshop. It does not have to be big nor expensive. I think I would actually like to have two + 2 HDMI cables, if that's ok. Thank you!",Operations,,,,
+1206668140095317,2024-02-22,2024-03-08,2024-08-06,3D printing evaluation,mechanical workshop,nseemann@ethz.ch,nseemann@ethz.ch,,2024-03-01,,,Operations,,,,
+1206582575876338,2024-02-15,2024-02-29,2024-02-29,follow up with Christian on Tobias and MAVT workshop,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,2024-02-21,,Copy Liz and sansavig@ethz.ch,Operations,,,,
+1206027498338301,2023-11-28,2023-11-28,2023-11-28,decision on laser cutter and planning,mechanical workshop,Liz,tilleye@ethz.ch,,2023-12-01,,What do we,Operations,,,,
+1208028442589357,2024-08-14,2024-08-14,2024-08-14,give Turlan access to the workshop,mechanical workshop,Bettina Melberg,bmelberg@ethz.ch,,2024-08-16,,,Operations,,,,
+1208391386463173,2024-09-24,2024-09-25,2024-09-25,give Nic access to the workshop,mechanical workshop,Bettina Melberg,bmelberg@ethz.ch,,2024-09-27,,,Operations,,,,
+1206977635929634,2024-04-04,2024-04-22,2024-04-22,forward the invoice for the vice+etc and for the multimeter stand to Bettina,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,2024-04-18,,,Operations,,,,
+1205756111302460,2023-10-19,2023-11-10,2023-11-28,get information on ventilation for the laster cutter,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,2023-11-10,,,Operations,,,,
+1206751754473245,2024-03-04,2024-04-04,2024-04-04,3D printer procurement,mechanical workshop,Liz,tilleye@ethz.ch,,2024-03-07,,"Hi Liz, after a discussion with Joel, I believe it does not make sense to go for the cheap 3D printer. His advice was to get a From Labs printer, which is expensive but fairly plug-and-play.
+
+Here's the quote: https://drive.google.com/file/d/1DWcw2HMrz8ZCx8S4YLEusXP8nZbEth3j/view?usp=drive_link
+
+It is for the printer, curing and cleaning station, 3 different resins, and 3-years warranty for everything. It sums up to 7200 CHF.",Operations,,,,
+1206863241116199,2024-03-19,2024-03-25,2024-03-25,reach out to Shea for the agreement to use their fume hood,,Liz,tilleye@ethz.ch,,2024-03-21,,They have a fume hood which they used for similar 3D printer which is now broken and not functional. We would like to use it as it stays there in their space and apparently nobody uses it.,,3D printer procurement,,,
+1206766240139744,2024-03-08,2024-03-12,2024-08-06,review programmable power supplies,mechanical workshop,nseemann@ethz.ch,nseemann@ethz.ch,,2024-03-13,,,Operations,,,,
+1205835366865166,2023-10-30,2023-11-02,2023-11-28,windows machine for CAD drawings,mechanical workshop,Lars,lschoebitz@ethz.ch,,2023-11-08,,"Hi Lars, do we have a not-so-old Windows PC? I would eventually like to run SolidWorks and it can't run on Mac, for sure not on M1.",Operations,,,,
+1206766240139746,2024-03-08,2024-03-12,2024-08-06,review programmable multimeters,mechanical workshop,nseemann@ethz.ch,nseemann@ethz.ch,,2024-03-13,,,Operations,,,,
+1207007858178177,2024-04-05,2024-04-10,2024-04-10,laser cutter service contract,mechanical workshop,Liz,tilleye@ethz.ch,,2024-04-10,,,Operations,,,,
+1205756111302463,2023-10-19,2023-10-27,2023-11-28,Contact Dario to check for equipment,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,2023-11-03,,,Operations,,,,
+1205674830669150,2023-10-10,2023-10-17,2023-11-28,COOP merclis - get everyone from GHE to collect stickers and buy tools,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,2023-10-13,,,Operations,,,,
+1207643439938316,2024-06-24,2024-09-17,2024-09-17,follow up with Peter Ganovsky after he is back from vacation,CLA C31.1 / C 34.1 / C 34.2 workshop,Jakub,jtkaczuk@ethz.ch,,2024-09-30,,,Operations,,,,

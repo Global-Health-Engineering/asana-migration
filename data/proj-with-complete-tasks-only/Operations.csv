@@ -1,0 +1,34 @@
+Task ID,Created At,Completed At,Last Modified,Name,Section/Column,Assignee,Assignee Email,Start Date,Due Date,Tags,Notes,Projects,Parent task,Blocked By (Dependencies),Blocking (Dependencies),Collaborators
+1207674523130852,2024-06-28,,2024-09-16,find solution for limited storage on supervision,General,Lars,lschoebitz@ethz.ch,,2024-07-05,,"Hi https://app.asana.com/0/profile/1200669575276657, ghe-supervision has 16% storage left. Should I archive the archive student directories to NAS or should we get more space?",Operations,,,,
+1204934043621696,2023-06-29,,2024-04-30,add the GSR and BSO responsibilities to contract,GSR&BSO,Jakub,jtkaczuk@ethz.ch,,2024-01-19,,,Operations,,,,jtkaczuk@ethz.ch
+1208257029976128,2024-09-11,,2024-10-18,make level 1 entry in ECOGEN,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-10-18,,,"Operations,Mycelium faecal sludge - phd project",,,,
+1206190244808810,2023-12-19,,2024-09-13,equipment procurement,wet lab,Jakub,jtkaczuk@ethz.ch,,,,,Operations,,,,
+1205484350514497,2023-09-14,,2024-08-07,man down device for lone workers,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1206190244808814,2023-12-19,,2024-10-18,spill kit,,Jakub,jtkaczuk@ethz.ch,,2024-10-25,,"Content:
+    PPE, including goggles and masks.
+    Absorbing material, mats, paper towels.
+    Disinfectant.
+    Signs, marker band (sign for no cleaning in the lab which we share with facility services).
+    Bags, waste bins, sharps container, forceps etc.
+    Signs, labelling, forms.
+    Make it in the solid waste container box from ETH waste services.
+    Autoclaveable bag.
+    Gloves for chemicals in case of a chemical spill.
+",,equipment procurement,,,
+1208131457955847,2024-08-23,,2024-08-26,Climatechamber,,Jules,jupeter@ethz.ch,,,,Buy climatechamber with  temperature and humidity control volume around 240l,,equipment procurement,,,
+1208144722504954,2024-08-26,,2024-08-26,Check with Jakub,,,,,,,,,Climatechamber,,,
+1208232446374919,2024-09-05,,2024-09-24,UV-lamp for laminarflow bench,,Jakub,jtkaczuk@ethz.ch,,,,,,equipment procurement,,,
+1207997296368927,2024-08-07,,2024-08-28,general organization,wet lab,Jakub,jtkaczuk@ethz.ch,,,,General organization of the lab ,Operations,,,,
+1207997297935729,2024-08-07,,2024-08-07,Working space in the lab,,Jakub,jtkaczuk@ethz.ch,,,,"Organization of working times in the lab, resrvation plans for equipment. (e.g. fume hood now occupied from x-z from person y)",,general organization,,,
+1208165663231326,2024-08-28,,2024-09-19,Labnotebooks,,Jakub,jtkaczuk@ethz.ch,,,,"Is there a lab notebook software we use already.
+If not would it be possible to set openbis up for our lab? https://openbis.ch/ ",,general organization,,,
+1208257029976134,2024-09-11,,2024-09-11,aerosol-tight lids for centrifuge,wet lab,Jules,jupeter@ethz.ch,,2025-01-10,,,Operations,,,,
+1208291276692615,2024-09-12,,2024-09-18,share cleaning instructions guidelines with facility services,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-09-18,,Send the instruction to: fs_gmz_ml_isc@ethz.ch,Operations,,,,
+1208314468388119,2024-09-16,,2024-09-16,Oxford nanopore sequencing,wet lab,Jules,jupeter@ethz.ch,,,,"Considering working with oxford nanopore for microbial analysis.
+
+",Operations,,,,
+1208314468388122,2024-09-16,,2024-09-16,Organize meeting with someone who works with it regularly,,Jules,jupeter@ethz.ch,,,,,,Oxford nanopore sequencing,,,
+1208311051672939,2024-09-17,,2024-09-20,collect certificates of conformity for new equipment,wet lab,Jules,jupeter@ethz.ch,,2024-10-25,,,Operations,,,,
+1208526721480100,2024-10-11,,2024-10-18,Working with human faeces,wet lab,Jakub,jtkaczuk@ethz.ch,,2024-10-18,,What safety standard are needed to work with human faeces?,Operations,,,,
+1207977659934415,2024-08-07,,2024-08-07,equipment procurement,mechanical workshop,Jakub,jtkaczuk@ethz.ch,,,,,Operations,,,,
+1207977659934417,2024-08-07,,2024-09-30,Buy a shelf for the workshop 370 cm x 35 cm,,Jakub,jtkaczuk@ethz.ch,,2024-09-30,,,,equipment procurement,,,
